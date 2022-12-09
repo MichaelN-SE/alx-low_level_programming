@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - print a c program using printf
+ * main - print a c progran using printf
  *
- * return: Always 0 (Success)
+ * Return: 0
  */
 int main(void)
 {
